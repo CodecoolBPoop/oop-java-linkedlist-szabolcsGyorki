@@ -1,7 +1,5 @@
 package com.codecool.dojolinkedlist;
 
-import com.codecool.dojolinkedlist.Node;
-
 class SinglyLinkedList {
 
     private Node head = null;
